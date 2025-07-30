@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dhairyapandya2006@gmail.com**
 
-- 📄 Know about my experiences [Resume](Resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1oVsmZMxYqu8Pqdprk4PTEOB-NOJEwFUc/view?usp=drive_link)
 
 - ⚡ Fun fact **Majha Maa!**
 
