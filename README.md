@@ -1,6 +1,23 @@
-# 💫 About Me:
-🔭 I’m currently working on Mani Bhai - your go-to finance buddy<br>🌱 I’m currently learning TensorFlow, PyTorch, Keras<br>👯 I’m looking to collaborate on Mani Bhai - your go-to finance buddy<br>🤝 I’m looking for help with Autism Emotion Learning Aid<br>💬 Ask me about AI/ML, Data Science<br>📫 How to reach me dhairyapandya2006@gmail.com<br>📄 Know about my experiences Resume<br>⚡ Fun fact Majha Maa!
+<h1 align="center">Hi 👋, I'm Dhairya Pandya</h1>
+<h3 align="center">A passionate machine learning and artificial intelligence engineer who is also into data science.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dp2426&label=Profile%20views&color=0e75b6&style=flat" alt="dp2426" /> </p>
+
+- 🔭 I’m currently working on [Mani Bhai - your go-to finance buddy](https://github.com/dhairya-pandya/Financial-Advisory-Chatbot)
+
+- 🌱 I’m currently learning **TensorFlow, PyTorch, Keras**
+
+- 👯 I’m looking to collaborate on [Mani Bhai - your go-to finance buddy](https://github.com/dhairya-pandya/Financial-Advisory-Chatbot)
+
+- 🤝 I’m looking for help with [Autism Emotion Learning Aid](https://github.com/dhairya-pandya/Emotion-Recognition-for-Autism-Support)
+
+- 💬 Ask me about **AI/ML, Data Science**
+
+- 📫 How to reach me **dhairyapandya2006@gmail.com**
+
+- 📄 Know about my experiences [Resume](Resume)
+
+- ⚡ Fun fact **Majha Maa!**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhairya-pandya) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@dhairyapandya2006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhairyapandya2006@gmail.com) 
