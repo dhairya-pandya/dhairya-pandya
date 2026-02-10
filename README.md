@@ -1,37 +1,177 @@
 <h1 align="center">Hi 👋, I'm Dhairya Pandya</h1>
-<h3 align="center">A passionate machine learning and artificial intelligence engineer who is also into data science.</h3>
+<h3 align="center">AI Engineer • Open Source Contributor • Agentic AI & ML Systems Builder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dp2426&label=Profile%20views&color=0e75b6&style=flat" alt="dp2426" /> </p>
-
-- 🔭 I’m currently working on [Mani Bhai - your go-to finance buddy](https://github.com/dhairya-pandya/Financial-Advisory-Chatbot)
-
-- 🌱 I’m currently learning **TensorFlow, PyTorch, Keras**
-
-- 👯 I’m looking to collaborate on [Mani Bhai - your go-to finance buddy](https://github.com/dhairya-pandya/Financial-Advisory-Chatbot)
-
-- 🤝 I’m looking for help with [Autism Emotion Learning Aid](https://github.com/dhairya-pandya/Emotion-Recognition-for-Autism-Support)
-
-- 💬 Ask me about **AI/ML, Data Science**
-
-- 📫 How to reach me **dhairyapandya2006@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1oVsmZMxYqu8Pqdprk4PTEOB-NOJEwFUc/view?usp=drive_link)
-
-- ⚡ Fun fact **Majha Maa!**
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhairya-pandya) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@dhairyapandya2006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhairyapandya2006@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dhairya-pandya&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dhairya-pandya&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhairya-pandya&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+Building intelligent systems that combine classical ML, deep learning, and multi-agent reasoning.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dhairya-pandya&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🧭 About Me
+
+- 🧠 I design **end-to-end intelligent systems** across NLP, Computer Vision, and Agentic AI  
+- ⚙️ Focused on **production-grade ML engineering and real-world deployment**  
+- 🌍 Active **open-source contributor** across probabilistic modeling, LLM tooling, and AI infrastructure  
+- 🔬 Strong interest in **multi-agent orchestration, trustworthy AI, and scalable inference systems**
+
+---
+
+## 🏆 Impact Highlights
+
+- 🚀 Top 30 / 8000+ teams — **Bharatiya Antariksh Hackathon (ISRO)**
+- 🥇 Top 20 / 2000+ teams — **Hack The Future (IIT Gandhinagar + MoSPI)**
+- 🧠 Designed Siamese CV model achieving **40% accuracy improvement** in satellite change detection
+- 📜 Built open-source document intelligence pipeline achieving **50% better OCR extraction**
+- ⚡ Built multi-agent legal AI system reducing hallucination risks in statutory interpretation
+
+---
+## 🌍 Open Source Contributions
+
+### 🔧 Major Feature Contributions
+
+| Project | Contribution | Description | Link |Status |
+|----------|------------|------------|------|------------|
+| LLM4S (Scala) | DeepSeek Model Integration | Added full DeepSeek model support into Scala ecosystem| [Link](https://github.com/llm4s/llm4s/pull/445) | 🟣 Merged |
+| pgmpy | Documentation Contribution | Implemented enhancements for probabilistic graphical modeling| [Link](https://github.com/pgmpy/pgmpy/pull/2594) |  🟢 Ongoing |
+| EchoGem (GSoC – DeepMind) | Robust JSON Parsing | Implemented strict structured parsing for LLM outputs| [Link](https://github.com/aryan-410/EchoGem/pull/2) | 🟢 Ongoing |
+| Feluda | Workflow Versioning Fix | Fixed versioning pipeline bug| [Link](https://github.com/tattle-made/feluda/pull/701) | 🟢 Ongoing|
+
+---
+
+### 🐛 Solving Issues & Security Findings
+
+| Project | Issue Type | Impact |
+|----------|------------|------------|
+| LLM4S | Critical Security Issue | Identified vulnerability in model integration pipeline |
+| pgmpy | Research Implementation Issue | Working on implementing research paper functionality |
+
+---
+
+### 🤝 Community Contributions
+- Active contributor in **LLM4S open-source ecosystem**
+- Collaborating on probabilistic modeling and LLM tooling improvements
+
+---
+
+## 🚀 Featured Projects
+
+### ⚖️ NyayaSetu — Multimodal Legal Intelligence Platform
+> Agentic AI system bridging static law and dynamic judicial reality
+
+**Highlights**
+- Multi-agent orchestration using LangGraph
+- Hallucination mitigation through truth-grounded retrieval
+- Multimodal legal evidence reasoning (video + audio)
+
+**Tech**
+LangGraph • LangChain • Gemini 2.5 Flash • Qdrant • Streamlit
+
+🔗 Live: [Click For Demo](https://legal-advisory-counsel.streamlit.app/)
+🔗 Repo: [(Click Here)](https://github.com/dhairya-pandya/Legal-Advisory-Multi-Agent-System)
+
+---
+
+### 🛰 AOI Context Aware Change Detection System
+> Satellite-based land-use and environmental monitoring
+
+**Achievements**
+- Siamese neural network for multi-temporal LISS-4 imagery
+- Improved detection accuracy by **40%**
+- Designed segmentation-based anomaly pipeline
+- Reduced processing time by **2×**
+
+**Tech**
+Python • Deep Learning • Computer Vision • Geospatial Analysis
+
+---
+
+### 💰 Mani Bhai — Financial Advisory AI Assistant
+> Conversational financial intelligence chatbot
+
+**Focus**
+- Personalized financial recommendation
+- Structured financial knowledge retrieval
+- Conversational LLM interface
+
+🔗 Repo: https://github.com/dhairya-pandya/Financial-Advisory-Chatbot
+
+---
+## 🧰 Technical Stack
+
+### 🤖 AI / ML / DL
+- PyTorch
+- TensorFlow
+- Scikit-Learn
+- Keras
+- Classical ML Algorithms
+- Deep Learning Architectures
+- Probabilistic Graphical Models
+
+---
+
+### 🧠 LLM & Agentic Systems
+- LangChain
+- LangGraph
+- RAG Pipelines
+- Multi-Agent Architectures
+- Structured Output Parsing
+- Prompt Engineering
+
+---
+
+### 👁 Computer Vision
+- OpenCV
+- Satellite Image Processing
+- Siamese Networks
+- Image Segmentation
+
+---
+
+### ⚙️ Backend & Systems
+- FastAPI
+- Flask
+- REST API Design
+- Docker
+- MySQL / PostgreSQL / SQLite
+
+---
+
+### 📊 Data Engineering
+- Pandas
+- NumPy
+- Data Processing Pipelines
+- Feature Engineering
+
+---
+
+## 📊 GitHub Analytics
+
+![](https://github-readme-stats.vercel.app/api?username=dhairya-pandya&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=dhairya-pandya&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhairya-pandya&theme=dark&hide_border=false&layout=compact)
+
+---
+
+## 🌱 Currently Exploring
+
+- Agentic AI Systems
+- Trustworthy & Interpretable ML
+- Autonomous Multi-Agent Reasoning
+- Efficient LLM Inference Architectures
+
+---
+
+## 📬 Connect With Me
+
+📧 Email: dhairyapandya2006@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/dhairya-pandya  
+✍ Medium: https://medium.com/@dhairyapandya2006  
+
+---
+
+## ⚡ Fun Engineering Philosophy
+
+> Build systems that survive production, not just demos.
+](https://legal-advisory-counsel.streamlit.app/)
