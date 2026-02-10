@@ -97,50 +97,55 @@ Python • Deep Learning • Computer Vision • Geospatial Analysis
 
 ---
 ## 🧰 Technical Stack
+### 📊 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+---
 
 ### 🤖 AI / ML / DL
-- PyTorch
-- TensorFlow
-- Scikit-Learn
-- Keras
-- Classical ML Algorithms
-- Deep Learning Architectures
-- Probabilistic Graphical Models
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
 ### 🧠 LLM & Agentic Systems
-- LangChain
-- LangGraph
-- RAG Pipelines
-- Multi-Agent Architectures
-- Structured Output Parsing
-- Prompt Engineering
+![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Pipelines-blueviolet?style=for-the-badge)
+![Multi Agent](https://img.shields.io/badge/Multi--Agent-Systems-orange?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-yellow?style=for-the-badge)
 
 ---
 
 ### 👁 Computer Vision
-- OpenCV
-- Satellite Image Processing
-- Siamese Networks
-- Image Segmentation
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Geospatial Vision](https://img.shields.io/badge/Geospatial-ComputerVision-darkgreen?style=for-the-badge)
+![Image Segmentation](https://img.shields.io/badge/Image-Segmentation-blue?style=for-the-badge)
 
 ---
 
 ### ⚙️ Backend & Systems
-- FastAPI
-- Flask
-- REST API Design
-- Docker
-- MySQL / PostgreSQL / SQLite
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
 
 ---
 
 ### 📊 Data Engineering
-- Pandas
-- NumPy
-- Data Processing Pipelines
-- Feature Engineering
+![Feature Engineering](https://img.shields.io/badge/Feature-Engineering-ff69b4?style=for-the-badge)
+![Data Pipelines](https://img.shields.io/badge/Data-Pipelines-informational?style=for-the-badge)
+![Data Processing](https://img.shields.io/badge/Data-Processing-blue?style=for-the-badge)
 
 ---
 
