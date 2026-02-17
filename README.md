@@ -33,7 +33,8 @@ Building intelligent systems that combine classical ML, deep learning, and multi
 |----------|------------|------------|------|------------|
 | LLM4S (Scala) | DeepSeek Model Integration | Added full DeepSeek model support into Scala ecosystem| [Link](https://github.com/llm4s/llm4s/pull/445) | 🟣 Merged |
 | LLM4S (Scala) | Knowledge Graph Module Addition | Added foundational Knowledge Graph for LLM-powered entity extraction | [Link](https://github.com/llm4s/llm4s/pull/566) | 🟣 Merged |
-| pgmpy | Documentation Contribution | Implemented enhancements for supporting agentic developments | [Link](https://github.com/pgmpy/pgmpy/pull/2594) |  🟢 Ongoing |
+| pgmpy | Documentation Contribution | Implemented enhancements for supporting agentic developments | [Link](https://github.com/pgmpy/pgmpy/pull/2594) |  🟣 Merged |
+| pgmpy | Implementing Research Paper | Implemented new metric for probabilistic graphical models based on Seperation Distance Measures | [Link](https://github.com/pgmpy/pgmpy/pull/2626) |  🟢 Ongoing |
 | EchoGem (GSoC – DeepMind) | Robust JSON Parsing | Implemented strict structured parsing for LLM outputs| [Link](https://github.com/aryan-410/EchoGem/pull/2) | 🟢 Ongoing |
 | Feluda | Workflow Versioning Fix | Fixed versioning pipeline bug| [Link](https://github.com/tattle-made/feluda/pull/701) | 🟢 Ongoing|
 
