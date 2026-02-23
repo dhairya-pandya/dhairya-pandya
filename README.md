@@ -36,6 +36,7 @@ Building intelligent systems that combine classical ML, deep learning, and multi
 | LLM4S (Scala) | Knowledge Graph Schema Guided Extraction | Added support for schema-guided extraction | [Link](https://github.com/llm4s/llm4s/pull/699) | 🟣 Merged |
 | pgmpy | Documentation Contribution | Implemented enhancements for supporting agentic developments | [Link](https://github.com/pgmpy/pgmpy/pull/2594) |  🟣 Merged |
 | pgmpy | Implementing Research Paper | Implemented new metric for probabilistic graphical models based on Seperation Distance Measures | [Link](https://github.com/pgmpy/pgmpy/pull/2626) |  🟢 Ongoing |
+| pgmpy | Adding functioning for citations | Implemented new function which reduces friction in accessing citations of models and ddatasets in the library | [Link](https://github.com/pgmpy/pgmpy/pull/2684) |  🟢 Ongoing |
 | EchoGem (GSoC – DeepMind) | Robust JSON Parsing | Implemented strict structured parsing for LLM outputs| [Link](https://github.com/aryan-410/EchoGem/pull/2) | 🟢 Ongoing |
 | Feluda | Workflow Versioning Fix | Fixed versioning pipeline bug| [Link](https://github.com/tattle-made/feluda/pull/701) | 🟢 Ongoing|
 
