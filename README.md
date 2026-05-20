@@ -18,8 +18,9 @@ Building intelligent systems that combine classical ML, deep learning, and multi
 
 ## 🏆 Impact Highlights
 
-- 🚀 Top 30 / 8000+ teams — **Bharatiya Antariksh Hackathon (ISRO)**
-- 🥇 Top 20 / 2000+ teams — **Hack The Future (IIT Gandhinagar + MoSPI)**
+- 🥇 First Runner Up and Armor IQ Sponsored Track Winner - *MLH HackByte Winner*
+- 🚀 Top 30 / 8000+ teams - **Bharatiya Antariksh Hackathon (ISRO)** providing the best solution for our problem statement.
+- 🥇 Top 20 / 2000+ teams - **Hack The Future (IIT Gandhinagar + MoSPI)**
 - 🧠 Designed Siamese CV model achieving **40% accuracy improvement** in satellite change detection
 - 📜 Built open-source document intelligence pipeline achieving **50% better OCR extraction**
 - ⚡ Built multi-agent legal AI system reducing hallucination risks in statutory interpretation
