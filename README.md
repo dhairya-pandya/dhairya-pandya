@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhairya Pandya</h1>
-<h3 align="center">AI Engineer • Open Source Contributor • Agentic AI & ML Systems Builder</h3>
+<h3 align="center">ML Engineer • Open Source Contributor • Agentic AI & ML Systems Builder</h3>
 
 <p align="center">
 Building intelligent systems that combine classical ML, deep learning, and multi-agent reasoning.
